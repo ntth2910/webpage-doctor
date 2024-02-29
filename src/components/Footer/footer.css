@@ -1,0 +1,32 @@
+.footer-container{
+    
+}
+.nav-container-footer{
+    padding-left:224px !important;
+    background-color: #EEF3FE;
+    
+}
+.nav-item-footer{
+   
+    margin-right: 43px;
+    line-height : 22px
+}
+.footer-description{
+    padding: 92px 0 92px 0;
+    padding-left:240px;
+    display:flex;
+    align-items: center;
+    background-color: #E3EAF7;
+}
+.logo-footer{
+    margin-right: 92px;
+}
+.info-footer{
+    line-height: 25px;
+    padding-left:92px;
+    border-left: 1px solid #cccccc;
+    height: 100%; 
+}
+.info-footer-content{
+    margin-bottom : 0;
+}
